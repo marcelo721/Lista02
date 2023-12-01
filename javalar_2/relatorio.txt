@@ -1,0 +1,17 @@
+Total de Bugs: 30190126
+Total de Devs: 27559371
+Total de Horas: 2068800851
+Total de Anos: 260577093
+Menor Sobrevivente: cSharp
+Maior Sobrevivente: python
+Aluno com Mais Inserts: Pablo,555989
+Quantidade de Inserts: 205024
+Quadrante com mais bugs: 1
+Quadrante com mais devs: 1
+Média de Velocidade para python: 38.725975
+Média de Velocidade para javascript: 38.602837
+Média de Velocidade para ruby: 33.514133
+Média de Velocidade para php: 36.408722
+Média de Velocidade para cSharp: 34.804207
+Média de Velocidade para cPlusPlus: 34.373104
+Média de Velocidade para C: 31.155489
